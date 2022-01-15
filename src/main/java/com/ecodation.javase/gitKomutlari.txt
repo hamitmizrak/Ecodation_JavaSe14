@@ -1,0 +1,12 @@
+git init
+git add .
+
+git commit -m "commit adi"
+git push -u origin branchAdi 
+
+git commit -m "commit adı"
+git push -u origin branchAdi
+
+git log
+git log --oneline
+git status

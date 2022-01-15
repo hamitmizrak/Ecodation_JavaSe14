@@ -1,0 +1,13 @@
+cd .
+cd ..
+pwd
+cat >> dosyaAdi.txt
+echo "alt satır" >> dosyaADi.txt
+
+
+cd ~
+cd /
+mkdir dizin\adi
+mv eksi yeni
+
+clear
