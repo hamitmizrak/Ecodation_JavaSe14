@@ -1,4 +1,4 @@
-package com.ecodation.javase.ders009.abstractx.inheritance;
+package com.ecodation.javase.ders009.abstractx;
 
 public class MainTestClass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.ecodation.javase.ders009.abstractx.inheritance;
+package com.ecodation.javase.ders009.abstractx;
 
 //yeni özellikleri: fan,color
 public class Lenovo extends Computer {

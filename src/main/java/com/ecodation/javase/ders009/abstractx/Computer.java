@@ -1,4 +1,4 @@
-package com.ecodation.javase.ders009.abstractx.inheritance;
+package com.ecodation.javase.ders009.abstractx;
 
 
 import lombok.AllArgsConstructor;
