@@ -1,6 +1,7 @@
 package com.ecodation.javase.ders005.access.otherpacket;
 
-import com.ecodation.ders005.access.samepacket.AccessModifier;
+
+import com.ecodation.javase.ders005.access.samepacket.AccessModifier;
 
 public class OtherPacketOtherClass extends AccessModifier{
 

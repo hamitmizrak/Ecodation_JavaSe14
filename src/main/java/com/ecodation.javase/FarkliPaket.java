@@ -1,6 +1,7 @@
 package com.ecodation.javase;
 
-import com.ecodation.ders002.method._02_AccessModifier;
+
+import com.ecodation.javase.ders002.method._02_AccessModifier;
 
 public class FarkliPaket extends _02_AccessModifier {
 
