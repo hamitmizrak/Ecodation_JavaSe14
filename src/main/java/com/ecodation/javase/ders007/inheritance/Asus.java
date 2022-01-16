@@ -15,6 +15,12 @@ public class Asus extends Computer {
         this.asusKeyword = asusKeyword;
     }
 
+    //
+    @Override
+    public void polymoprhismMethod() {
+        System.out.println("Ben Asus Polyorphism");
+    }
+
     //getter and setter
     public String getAsusKeyword() {
         return asusKeyword;

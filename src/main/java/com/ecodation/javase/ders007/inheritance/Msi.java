@@ -8,4 +8,11 @@ public class Msi extends Computer {
     public Msi(String ram, String cpu) {
         super(ram, cpu);
     }
+
+    //
+    @Override
+    public void polymoprhismMethod() {
+        System.out.println("Ben Msi Polyorphism");
+    }
+
 }

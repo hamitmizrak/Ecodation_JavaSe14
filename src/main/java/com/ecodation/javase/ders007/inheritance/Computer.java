@@ -35,6 +35,12 @@ public class Computer {
                 '}';
     }
 
+    //method
+    public void polymoprhismMethod(){
+        System.out.println("Merhabalar Polymorphism");
+    }
+
+
     //getter and setter
     public String getRam() {
         return ram;

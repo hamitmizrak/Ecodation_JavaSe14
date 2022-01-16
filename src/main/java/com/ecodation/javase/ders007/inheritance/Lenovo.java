@@ -23,6 +23,12 @@ public class Lenovo extends  Computer {
                 ", color='" + color + '\'' +
                 "} " + super.toString();
     }
+    //
+    @Override
+    public void polymoprhismMethod() {
+        System.out.println("Ben Lenovo Polyorphism");
+    }
+
 
     //getter and setter
     public String getFan() {
