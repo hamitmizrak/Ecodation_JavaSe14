@@ -12,6 +12,7 @@ public class _1_ArrayList {
         List<String> listem = new ArrayList<String>();
         listem.add("Ankara");
         listem.add("İstanbul");
+        listem.add("İstanbul");
         listem.add("Adıyaman");
         listem.add("Diyarbakır");
         listem.add("İzmir");
